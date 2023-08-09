@@ -1,0 +1,50 @@
+.techstack {
+  padding: 130px;
+  margin-top: 20px;
+}
+
+.techstack hr {
+    color: #138781;
+    width: 400px;
+    height: 10px auto;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #2e7a76;
+}
+
+.techstack h5 {
+  font-weight: bold;
+  color: #138781;
+}
+
+.techstack .card {
+  cursor: pointer;
+}
+
+.techstack .tech-icon {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.techstack .card:hover {
+  background-color: #138781;
+  color: white;
+  border: none;
+  transition: 1s;
+  
+}
+
+
+
+.technologies_stack{
+    margin-top: -140px;
+}
+
+.technologies_stack h2{
+    text-align: center;
+}
+
+.tech-icon{
+    margin: 0 auto;
+    margin-left: 40px;
+}

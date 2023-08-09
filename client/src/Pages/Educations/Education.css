@@ -1,0 +1,39 @@
+.education {
+    margin: 50px 0px;
+    margin-top: 120px;
+  }
+  .education hr {
+    color: #138781;
+    width: 400px;
+    height: 10px auto;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #138781;
+  }
+  
+  .education h5 {
+    font-weight: bold;
+    color: #138781;
+  }
+  .education1 {
+    height: 400px;
+    margin-left: 1px;
+    margin-top: 15px;
+    height: 150px;
+    width: 100%;
+  }
+
+  .vertical-timeline-element--mdschool {
+    width: 70%;
+    max-width: 1170px;
+    margin: 10 auto;
+    position: relative;
+    padding: 2em 0;
+    
+    
+}
+.education8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
