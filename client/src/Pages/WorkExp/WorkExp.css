@@ -1,0 +1,27 @@
+.work{
+    background-color: #1387812a;
+    margin-left: 140px;
+   
+}
+
+.work-exp{
+    padding: 60px 0px;
+}
+
+.work-exp h2{
+    font-weight:bold;
+    color: #138781;
+}
+
+.work-exp hr {
+    color: #138781;
+    width: 400px;
+    height: 10px auto;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #138781;
+  }
+
+  .work-exp .vertical-timeline-element-title{
+    color: #0e1fd8;
+  }

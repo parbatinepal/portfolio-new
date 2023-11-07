@@ -1,12 +1,13 @@
 import React from 'react'
 import './About.css'
 const About = () => {
+  
   return (
     <>
-     <div className="about">
+     <div className="about" id='about'>
         <div className="row">
             <div className="col-md-6  col-xl-6 col-lg-6 col-xs-12 about-image">
-            <img src = "image/profile1.jpg" alt="profile pic"/>
+            <img src = "image/profile2.jpg" alt="profile pic"/>
                 </div>
             <div className="col-md-6 about-content " >
               <h1>About Me </h1>
